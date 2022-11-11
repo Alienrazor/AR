@@ -17,6 +17,6 @@ pip install bs4 futures
 
 git clone https://github.com/Alienrazor/AR
 
-cd Randomv1
+cd AR
 
 python RUN.py
